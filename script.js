@@ -7,5 +7,5 @@
 .hello-accio-job{
 	padding: 10px;
     margin : 32px;
-    text  : white;
+ color  : white;
 }
